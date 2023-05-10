@@ -1,3 +1,7 @@
+# Alura-Aluraflix
+
+proyecto de aluraflix del programa One de Alura Latam
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
